@@ -7,3 +7,6 @@
 ```
 print(Não sei se comento)
 ```
+
+- [x] kill no one
+- [ ] I try not to k myself
